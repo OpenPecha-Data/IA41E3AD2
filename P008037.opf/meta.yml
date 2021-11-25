@@ -1,5 +1,7 @@
 id: P008037
 initial_creation_type: ocr
+created_at: 25/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W22787
   title: ཀརྨ་སི་ཏུའི་སུམ་རྟགས་འགྲེལ་ཆེན།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 302
       base_file: v001.txt
-ebook_metadata:
-  title: ཀརྨ་སི་ཏུའི་སུམ་རྟགས་འགྲེལ་ཆེན།
-  author: ''
-  sku: P008037
-  cover: cover.jpg
-  layers:
-  - pagination
